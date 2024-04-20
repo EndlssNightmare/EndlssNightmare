@@ -18,7 +18,7 @@
 <br></br>
 
    <h3 align="center">
-    <img src="https://capsule-render.vercel.app/api?color=gradient&type=transparent&text=%20💻+Programming+Languages&height=25&fontSize=20&textBg=false&animation=twinkling">
+    <img src="https://capsule-render.vercel.app/api?color=gradient&type=transparent&text=%20💻+Programming+Languages+💻&height=25&fontSize=20&textBg=false&animation=twinkling">
    </h3>
 
      
@@ -34,7 +34,7 @@
 <br></br>
 
    <h3 align="center">
-    <img src="https://capsule-render.vercel.app/api?color=gradient&type=transparent&text=%20🛠️+Tools&height=25&fontSize=20&textBg=false&animation=twinkling">
+    <img src="https://capsule-render.vercel.app/api?color=gradient&type=transparent&text=%20🛠️+Knowledge+🛠️&height=25&fontSize=20&textBg=false&animation=twinkling">
    </h3>
 
 <p align="center">
