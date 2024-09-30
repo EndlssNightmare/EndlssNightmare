@@ -3,8 +3,12 @@
   <h3 align="center">
     <img src="https://capsule-render.vercel.app/api?color=gradient&type=transparent&text=%20👨‍💻+CyberSec+Enthusiast+👨‍💻&height=45&fontSize=30&textBg=false&animation=twinkling">
   </h3>
-
-<br></br>
+  
+<p align="center">
+  <a href="https://giffiles.alphacoders.com/100/100511.gif">
+    <img height=300 src="https://giffiles.alphacoders.com/100/100511.gif" />
+  </a>
+</p>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8B0000&size=35&center=true&vCenter=true&width=1000&lines=Hello+World!;Welcome+to+the+jungle!+:%29;Enjoy+my+repositories!)](https://git.io/typing-svg)
 
