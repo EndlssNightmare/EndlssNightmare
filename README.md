@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8B0000&height=120&section=header"/>
 
   <h3 align="center">
-    <img src="https://capsule-render.vercel.app/api?color=gradient&type=transparent&text=%20👨‍💻+CyberSec+Enthusiast+👨‍💻&height=45&fontSize=30&textBg=false&animation=twinkling">
+    <img src="https://capsule-render.vercel.app/api?color=gradient&type=transparent&text=%20Offensive+Security+/+CyberSec+Enthusiast+👨‍💻&height=45&fontSize=30&textBg=false&animation=twinkling">
   </h3>
   
 <p align="center">
