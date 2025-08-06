@@ -15,7 +15,7 @@ You can find me practicing my skills on:
   <a href="https://tryhackme.com/p/V01">
     <img src="https://img.shields.io/badge/TryHackMe-88B23E?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe">
   </a>
-  <a href="https://hackmyvm.eu/profile/user/V01">
+  <a href="https://hackmyvm.eu/profile/?user=V01">
     <img src="https://img.shields.io/badge/HackMyVm-DE3883?style=for-the-badge" alt="HackMyVm">
   </a>
   <a href="https://app.hackingclub.com/profile/user/20057">
