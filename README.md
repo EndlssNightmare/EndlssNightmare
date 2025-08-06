@@ -12,7 +12,7 @@ You can find me practicing my skills on:
   <a href="https://app.hackthebox.com/profile/782262">
     <img src="https://img.shields.io/badge/Hack%20The%20Box-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" alt="Hack The Box">
   </a>
-  <a href="https://tryhackme.com/p/[SEU-USUARIO-THM]">
+  <a href="https://tryhackme.com/p/V01">
     <img src="https://img.shields.io/badge/TryHackMe-88B23E?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe">
   </a>
   <a href="https://hackmyvm.eu/profile/user/V01">
