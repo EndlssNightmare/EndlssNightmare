@@ -1,64 +1,70 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8B0000&height=120&section=header"/>
+# V01
+*Pentester | Ethical Hacker | Cybersecurity Analyst*
 
-  <h3 align="center">
-    <img src="https://capsule-render.vercel.app/api?color=gradient&type=transparent&text=%20Offensive+Security+/+CyberSec+Enthusiast&height=45&fontSize=30&textBg=false&animation=twinkling">
-  </h3>
-  
-<p align="center">
-  <a href="https://giffiles.alphacoders.com/100/100511.gif">
-    <img height=300 src="https://i.pinimg.com/736x/af/01/f0/af01f03f58b2684fc7464d4e8f12aee7.jpg" />
+---
+
+### About Me
+
+An Information Security professional focused on pentesting and vulnerability analysis. My main motivation is to identify and mitigate security risks, helping to protect digital assets. I also dedicate time to vulnerability research, contributing to a safer digital ecosystem.
+
+You can find me practicing my skills on:
+<p>
+  <a href="https://app.hackthebox.com/profile/782262">
+    <img src="https://img.shields.io/badge/Hack%20The%20Box-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" alt="Hack The Box">
+  </a>
+  <a href="https://tryhackme.com/p/[SEU-USUARIO-THM]">
+    <img src="https://img.shields.io/badge/TryHackMe-88B23E?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe">
+  </a>
+  <a href="https://hackmyvm.eu/profile/user/V01">
+    <img src="https://img.shields.io/badge/HackMyVm-DE3883?style=for-the-badge" alt="HackMyVm">
   </a>
 </p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8B0000&size=35&center=true&vCenter=true&width=1000&lines=Hello+World!;Welcome+to+the+jungle!+:%29;Enjoy+my+repositories!)](https://git.io/typing-svg)
 
-<br></br>
+---
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=EndlssNightmare&show_icons=true&count_private=true&hide_border=true&title_color=8B0000&icon_color=8B0000&text_color=c9d1d9&bg_color=0d1117&theme=dark" alt="V01demort github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EndlssNightmare&layout=compact&hide_border=true&title_color=8B0000&text_color=8B0000&bg_color=0d1117" />
-</div>
+## 🔓 Vulnerability Research & Publications
 
-<br></br>
+- **CVE-2025-45778**: [Add a brief description of the vulnerability here]
+  - **Official NIST Record:** [NVD-CVE-2025-45778](https://nvd.nist.gov/vuln/detail/CVE-2025-45778)
+  - **Proof of Concept (PoC):** [GitHub Repository](https://github.com/Smarttfoxx/CVE-2025-45778)
 
-   <h3 align="center">
-    <img src="https://capsule-render.vercel.app/api?color=gradient&type=transparent&text=%20💻+Programming+Languages+💻&height=25&fontSize=20&textBg=false&animation=twinkling">
-   </h3>
+---
 
-     
-<p align="center">
-  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
+## 🚀 Skills & Tools
+
+### Programming & Scripting Languages
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,c,php,bash,powershell" />
+  </a>
 </p>
 
-<br></br>
+### Development Tools & Technologies
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,windows,vim,git,github,docker,obsidian,arduino,mysql" />
+  </a>
 
-   <h3 align="center">
-    <img src="https://capsule-render.vercel.app/api?color=gradient&type=transparent&text=%20🛠️+Knowledge+🛠️&height=25&fontSize=20&textBg=false&animation=twinkling">
-   </h3>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="windows" width="40" height="40">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg" alt="vim" width="40" height="40">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" alt="arduino" width="40" height="40">
+---
+
+## 📊 GitHub Stats
+
+<p align="left">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=EndlssNightmare&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EndlssNightmare&layout=compact&langs_count=7&theme=radical"/>
 </p>
 
-<p align="center">  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
+---
+
+## 📫 Contact
+
+<p align="left">
+  <a href="mailto:rogerjfmssh@hotmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://www.linkedin.com/in/rogério-massouh-4276b6226/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
 </p>
-
-
-<div align="center">
-<br><p align="centre"><img src="https://capsule-render.vercel.app/api?color=gradient&type=transparent&text=%20Visitors+counter&height=20&fontSize=15&textBg=false&animation=twinkling">  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{EndlssNightmare}/count.svg" /></p> 
-<br></div>
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8B0000&height=120&section=footer"/>
