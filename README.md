@@ -25,7 +25,7 @@ You can find me practicing my skills on:
 
 ## 🔓 Vulnerability Research & Publications
 
-- **CVE-2025-45778**: [Add a brief description of the vulnerability here]
+- **CVE-2025-45778**: [XSS Stored vulnerability in The Language Sloth Web Application v1.0]
   - **Official NIST Record:** [NVD-CVE-2025-45778](https://nvd.nist.gov/vuln/detail/CVE-2025-45778)
   - **Proof of Concept (PoC):** [GitHub Repository](https://github.com/Smarttfoxx/CVE-2025-45778)
 
