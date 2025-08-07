@@ -46,7 +46,7 @@ You can find me practicing my skills on:
 ### Development Tools & Technologies
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,windows,vim,git,github,docker,obsidian,arduino,mysql" />
+    <img src="https://skillicons.dev/icons?i=linux,windows,vim,git,github,docker,obsidian,arduino,mysql,vscode" />
   </a>
 
 
@@ -67,7 +67,7 @@ You can find me practicing my skills on:
   <a href="mailto:rogerjfmssh@hotmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
-  <a href="https://www.linkedin.com/in/rogério-massouh-4276b6226/">
+  <a href="https://www.linkedin.com/in/rogerio-massouh/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
