@@ -1,8 +1,3 @@
-# V01
-*Pentester | Ethical Hacker | Cybersecurity Analyst*
-
----
-
 ### About Me
 
 An Information Security professional focused on pentesting and vulnerability analysis. My main motivation is to identify and mitigate security risks, helping to protect digital assets. I also dedicate time to vulnerability research, contributing to a safer digital ecosystem.
